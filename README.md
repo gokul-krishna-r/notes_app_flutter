@@ -1,16 +1,30 @@
 # note_app_flutter
 
-A Flutter Notes App Using Database
+A Flutter Notes App Using SQLite Database.
+This is one of my sample projects. 
 
-## Getting Started
+## About the App
 
-This project is a starting point for a Flutter application.
+The app lets you creat notes and edit them. It's a really simple app.
+The app uses flutter widget such as :
 
-A few resources to get you started if this is your first Flutter project:
+-FutureBuilder
+-ListView
+-Form
+-FAB
+-TextFormField
+-TextField
+-RaisedButton
+-FlatButton
+ 
+ and more.
+ 
+ This is now just a bare bone app. I intend to include more features such as :
+ 
+ -Firebase integration
+ -Canvas
+ -Change Note Color
+ -Rearrange Note
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
