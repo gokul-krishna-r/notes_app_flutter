@@ -8,23 +8,23 @@ This is one of my sample projects.
 The app lets you creat notes and edit them. It's a really simple app.
 The app uses flutter widget such as :
 
--[FutureBuilder]
--ListView
--Form
--FAB
--TextFormField
--TextField
--RaisedButton
--FlatButton
+- FutureBuilder
+- ListView
+- Form
+- FAB
+- TextFormField
+- TextField
+- RaisedButton
+- FlatButton
  
  and more.
  
  This is now just a bare bone app. I intend to include more features such as :
  
- -Firebase integration
- -Canvas
- -Change Note Color
- -Rearrange Note
+ - Firebase integration
+ - Canvas
+ - Change Note Color
+ - Rearrange Note
 
 
 
