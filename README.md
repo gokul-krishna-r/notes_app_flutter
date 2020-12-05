@@ -8,7 +8,7 @@ This is one of my sample projects.
 The app lets you creat notes and edit them. It's a really simple app.
 The app uses flutter widget such as :
 
--FutureBuilder
+-[FutureBuilder]
 -ListView
 -Form
 -FAB
