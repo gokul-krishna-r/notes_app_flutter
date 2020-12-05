@@ -16,7 +16,7 @@ The app uses flutter widget such as :
 - TextField
 - RaisedButton
 - FlatButton
-- _and more.
+- _and more_..
  
  This is now just a bare bone app. I intend to include more features such as :
  
