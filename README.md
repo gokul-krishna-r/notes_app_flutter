@@ -2,6 +2,7 @@
 
 A Flutter Notes App Using SQLite Database.
 This is one of my sample projects. 
+>Based on code by [Smartherd](https://www.youtube.com/c/smartherd/about)
 
 ## About the App
 
